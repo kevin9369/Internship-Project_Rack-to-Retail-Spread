@@ -4,6 +4,5 @@
 3. I wrote the SQL code to join three datasets and retrieve data, and created a view in Snowflake by using Alteryx.
 4. I connected Snowflake to Tableau to do data visualization and data analysis.
 5. Dashboard links:
-6. 
 https://public.tableau.com/app/profile/kai.wen.lee5873/viz/Racktoretailspreadmap/RacktoRetailSpreadMaps
 https://public.tableau.com/app/profile/kai.wen.lee5873/viz/Thepricetrendofracktoretailspread/ThePriceTrendofRacktoRetailSpread
